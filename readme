@@ -1,1 +1,3 @@
-This program is a project that creats a simple ball bounce game.
+This code uses the Pygame library to create a window where the game is displayed. The ball jumps when the spacebar is pressed, and the hurdles move from right to left across the screen. 
+If the ball collides with a hurdle, the game ends. 
+The ball must avoid hurdles by jumping over them. The game ends if the ball collides with a hurdle.
